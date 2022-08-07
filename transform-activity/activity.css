@@ -1,3 +1,8 @@
 main {
 
+    transform: rotate(-10deg);
+    margin-top: -2em;
+    display: flex;
+    width: auto;
+    margin: auto;
 }
